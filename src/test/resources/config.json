@@ -1,0 +1,4 @@
+[
+  {"name": "TEST", "type": "int", "child": []},
+  {"name": "CHILD", "type": "parent", "child": [{"name": "TEST", "type": "int", "child": []}]}
+]
